@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Django
+*.log
+db.sqlite3
+local_settings.py
+
+# Docker
+docker-compose.override.yml
+
+# Editor folders
+.vscode/
+.idea/
