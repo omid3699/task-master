@@ -29,6 +29,7 @@ EXTERNAL_APPS = [
 LOCAL_APPS = [
     "apps.tasks",
     "apps.accounts",
+    "apps.panel",
 ]
 
 
