@@ -14,3 +14,5 @@ docker-compose.override.yml
 # Editor folders
 .vscode/
 .idea/
+
+frontend/node_modules
